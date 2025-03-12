@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Quiz>
+    <Settings>
+        <help_quantity>3</help_quantity>
+        <questions_quantity>30</questions_quantity>
+        <time_settings>90</time_settings>
+    </Settings>
+
+    <Questions>
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual elemento químico tem símbolo Au?</questionText>
+            <option1>Prata</option1>
+            <option2>Alumínio</option2>
+            <option3>Ouro</option3>
+            <option4>Ferro</option4>
+            <option5>Cobre</option5>
+            <answer>Ouro</answer>
+            <hint>Elemento precioso.</hint>
+            <hint>Vem do latim 'aurum'.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath>borzoi.jpg</questionPath>
+            <questionText>Qual a raça deste cachorro?</questionText>
+            <option1>Pastor Alemão</option1>
+            <option2>Rough Collie</option2>
+            <option3>Saluki</option3>
+            <option4>Galgo Italiano</option4>
+            <option5>Borzoi</option5>
+            <answer>Borzoi</answer>
+            <hint>A cara dele parece uma meia.</hint>
+            <hint>É um cachorro de origem russa</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é o maior deserto do mundo?</questionText>
+            <option1>Sahara</option1>
+            <option2>Deserto da Namíbia</option2>
+            <option3>Antártida</option3>
+            <option4>Deserto de Gobi</option4>
+            <option5>Deserto do Atacama</option5>
+            <answer>Antártida</answer>
+            <hint>É um deserto polar.</hint>
+            <hint>Localizado no Polo Sul.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é a moeda oficial do Japão?</questionText>
+            <option1>Yuan</option1>
+            <option2>Dólar</option2>
+            <option3>Iene</option3>
+            <option4>Euro</option4>
+            <option5>Won</option5>
+            <answer>Iene</answer>
+            <hint>Seu símbolo é ¥.</hint>
+            <hint>É amplamente usado no comércio internacional asiático.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é o maior oceano do mundo?</questionText>
+            <option1>Atlântico</option1>
+            <option2>Pacífico</option2>
+            <option3>Índico</option3>
+            <option4>Ártico</option4>
+            <option5>Antártico</option5>
+            <answer>Pacífico</answer>
+            <hint>Oceano entre as Américas e a Ásia.</hint>
+            <hint>Cobre mais de 30% da superfície da Terra.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath>bull-terrier.jpg</questionPath>
+            <questionText>Qual a raça deste cão?</questionText>
+            <option1>Rottweiler</option1>
+            <option2>Pitbull Blue Nose</option2>
+            <option3>Bull Terrier</option3>
+            <option4>Pitbull Red Nose</option4>
+            <option5>American Bully</option5>
+            <answer>Bull Terrier</answer>
+            <hint>É da família Bull.</hint>
+            <hint>Tem origem na Inglaterra.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual inventor é conhecido por criar a lâmpada incandescente?</questionText>
+            <option1>Thomas Edison</option1>
+            <option2>Nikola Tesla</option2>
+            <option3>Alexander Graham Bell</option3>
+            <option4>Benjamin Franklin</option4>
+            <option5>Galileu Galilei</option5>
+            <answer>Thomas Edison</answer>
+            <hint>Inventor americano.</hint>
+            <hint>Também trabalhou no fonógrafo.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath>Parque-Nara.jpg</questionPath>
+            <questionText>No Parque Nara, qual característica única os cervos possuem ao interagir com os visitantes?</questionText>
+            <option1>Nadam em lagos</option1>
+            <option2>Seguem os visitantes</option2>
+            <option3>Só saem à noite</option3>
+            <option4>Imitam sons humanos</option4>
+            <option5>Se curvam em troca de comida</option5>
+            <answer>Se curvam em troca de comida</answer>
+            <hint>Esse gesto é visto como um sinal de respeito no Japão.</hint>
+            <hint>O alimento oferecido pelos visitantes são biscoitos chamados *shika senbei*.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath>Hachiko-Statue.jpg</questionPath>
+            <questionText>Na estação Shibuya no Japão, há a estátua do cão mais fiel, Hachiko. Qual a raça deste cão?</questionText>
+            <option1>Shiba Inu</option1>
+            <option2>Golden Retriever</option2>
+            <option3>Akita Inu</option3>
+            <option4>Chow-Chow</option4>
+            <option5>Samoieda</option5>
+            <answer>Akita Inu</answer>
+            <hint>É parecido, porém distinto, do cachorro do meme Doge.</hint>
+        </question>
+
+        <question>
+            <category>Cultura Geral</category>
+            <value>2</value>
+            <questionPath>Monte-Fuji.jpg</questionPath>
+            <questionText>O Monte Fuji é conhecido por ser o pico mais alto de qual país?</questionText>
+            <option1>Japão</option1>
+            <option2>China</option2>
+            <option3>Coreia do Sul</option3>
+            <option4>Nepal</option4>
+            <option5>Índia</option5>
+            <answer>Japão</answer>
+            <hint>É uma montanha icônica</hint>
+            <hint>Possui uma altura de 3.776 metros.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual ave pode voar para trás?</questionText>
+            <option1>Andorinha</option1>
+            <option2>Beija-flor</option2>
+            <option3>Águia</option3>
+            <option4>Papagaio</option4>
+            <option5>Condor</option5>
+            <answer>Beija-flor</answer>
+            <hint>Pequeno e colorido.</hint>
+            <hint>Pode bater as asas até 80 vezes por segundo.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual mamífero terrestre tem o maior coração?</questionText>
+            <option1>Elefante</option1>
+            <option2>Baleia-azul</option2>
+            <option3>Girafa</option3>
+            <option4>Rinoceronte</option4>
+            <option5>Hipopótamo</option5>
+            <answer>Elefante</answer>
+            <hint>Vive em grupos familiares.</hint>
+            <hint>Encontrado na África e Ásia.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual animal é conhecido por mudar completamente de cor?</questionText>
+            <option1>Camaleão</option1>
+            <option2>Polvo</option2>
+            <option3>Salamandra</option3>
+            <option4>Peixe-palhaço</option4>
+            <option5>Águia</option5>
+            <answer>Polvo</answer>
+            <hint>Vive nos oceanos.</hint>
+            <hint>Possui células especiais para camuflagem.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual animal tem o veneno mais potente do mundo?</questionText>
+            <option1>Cobra-rei</option1>
+            <option2>Vespa</option2>
+            <option3>Armadeira</option3>
+            <option4>Polvo-de-anéis-azuis</option4>
+            <option5>Escorpião</option5>
+            <answer>Polvo-de-anéis-azuis</answer>
+            <hint>Vive em águas tropicais.</hint>
+            <hint>Muito pequeno, mas extremamente perigoso.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual animal dorme por mais tempo durante o ano?</questionText>
+            <option1>Urso</option1>
+            <option2>Marmota</option2>
+            <option3>Preguiça</option3>
+            <option4>Hamster</option4>
+            <option5>Esquilo</option5>
+            <answer>Marmota</answer>
+            <hint>Típico de regiões montanhosas e frias.</hint>
+            <hint>Hibernação é uma estratégia de sobrevivência.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual animal pode regenerar membros perdidos?</questionText>
+            <option1>Lagarto</option1>
+            <option2>Salamandra</option2>
+            <option3>Estrela-do-mar</option3>
+            <option4>Caranguejo</option4>
+            <option5>Água-viva</option5>
+            <answer>Salamandra</answer>
+            <hint>Anfíbio que vive próximo a rios e lagos.</hint>
+            <hint>Possui capacidade especial de regeneração.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual mamífero não pode pular?</questionText>
+            <option1>Elefante</option1>
+            <option2>Rinoceronte</option2>
+            <option3>Hipopótamo</option3>
+            <option4>Girafa</option4>
+            <option5>Leão</option5>
+            <answer>Elefante</answer>
+            <hint>Possui pernas extremamente grossas.</hint>
+            <hint>Sempre tem pelo menos uma pata no chão.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual ave migratória faz o maior trajeto anual?</questionText>
+            <option1>Andorinha</option1>
+            <option2>Albatroz</option2>
+            <option3>Gaivota</option3>
+            <option4>Maçarico-dourado</option4>
+            <option5>Flamingo</option5>
+            <answer>Maçarico-dourado</answer>
+            <hint>Ave pequena e magra.</hint>
+            <hint>Viaja do Ártico à Nova Zelândia.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual mamífero marinho não hiberna, mas entra em estado de dormência?</questionText>
+            <option1>Golfinho</option1>
+            <option2>Foca</option2>
+            <option3>Baleia</option3>
+            <option4>Leão-marinho</option4>
+            <option5>Morsa</option5>
+            <answer>Foca</answer>
+            <hint>Vive em águas frias.</hint>
+            <hint>Possui uma grossa camada de gordura.</hint>
+        </question>
+
+        <question>
+            <category>Animais</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é o maior felino do mundo?</questionText>
+            <option1>Leão</option1>
+            <option2>Tigre-de-bengala</option2>
+            <option3>Guepardo</option3>
+            <option4>Leopardo</option4>
+            <option5>Tigre-siberiano</option5>
+            <answer>Tigre-siberiano</answer>
+            <hint>Também conhecido como tigre-de-amur.</hint>
+            <hint>Vive nas florestas do extremo oriente russo.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é o maior planeta do sistema solar?</questionText>
+            <option1>Saturno</option1>
+            <option2>Netuno</option2>
+            <option3>Júpiter</option3>
+            <option4>Urano</option4>
+            <option5>Terra</option5>
+            <answer>Júpiter</answer>
+            <hint>Pense no planeta gigante gasoso.</hint>
+            <hint>Lembre-se que nem sempre o primeiro que vem à mente é o correto.</hint>
+            <hint>Júpiter é conhecido por sua grande mancha vermelha.</hint>
+        </question>
+        
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual constelação representa um touro no céu?</questionText>
+            <option1>Órion</option1>
+            <option2>Escorpião</option2>
+            <option3>Touro</option3>
+            <option4>Áries</option4>
+            <option5>Câncer</option5>
+            <answer>Touro</answer>
+            <hint>Pense nas formas que as estrelas parecem desenhar no céu.</hint>
+            <hint>Muitas constelações têm nomes de animais.</hint>
+            <hint>Procure por grupos de estrelas que formam a silhueta de um touro.</hint>
+            </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual planeta tem a maior lua do sistema solar?</questionText>
+            <option1>Saturno</option1>
+            <option2>Júpiter</option2>
+            <option3>Terra</option3>
+            <option4>Marte</option4>
+            <option5>Netuno</option5>
+            <answer>Júpiter</answer>
+            <hint>Lembre-se que a pergunta é sobre a maior lua, não o maior planeta.</hint>
+            <hint>Júpiter tem muitas luas grandes.</hint>
+            <hint>Pesquise sobre as luas dos planetas gigantes.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é a distância média da Terra ao Sol?</questionText>
+            <option1>50 milhões de km</option1>
+            <option2>100 milhões de km</option2>
+            <option3>150 milhões de km</option3>
+            <option4>200 milhões de km</option4>
+            <option5>250 milhões de km</option5>
+            <answer>150 milhões de km</answer>
+            <hint>Pense em uma distância que seja nem muito perto nem muito longe.</hint>
+            <hint>Esta distância permite que a Terra tenha condições ideais para a vida.</hint>
+            <hint>É uma medida importante para entender as distâncias no espaço.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é a estrela mais próxima da Terra, além do Sol?</questionText>
+            <option1>Sirius</option1>
+            <option2>Próxima Centauri</option2>
+            <option3>Alpha Centauri</option3>
+            <option4>Betelgeuse</option4>
+            <option5>Vega</option5>
+            <answer>Próxima Centauri</answer>
+            <hint>Pense na estrela mais próxima, não necessariamente a mais brilhante.</hint>
+            <hint>Lembre-se que as estrelas estão muito distantes umas das outras.</hint>
+            <hint>Próxima Centauri é parte de um sistema de três estrelas.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual foi a primeira missão tripulada a pousar na Lua?</questionText>
+            <option1>Apollo 10</option1>
+            <option2>Apollo 11</option2>
+            <option3>Gemini 4</option3>
+            <option4>Mercury 3</option4>
+            <option5>Apollo 13</option5>
+            <answer>Apollo 11</answer>
+            <hint>Pense na missão que marcou a história da exploração espacial.</hint>
+            <hint>Lembre-se do contexto da corrida espacial entre EUA e URSS.</hint>
+            <hint>Foi um marco histórico transmitido ao vivo para milhões de pessoas.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual destes planetas NÃO é considerado um planeta rochoso?</questionText>
+            <option1>Marte</option1>
+            <option2>Vênus</option2>
+            <option3>Mercúrio</option3>
+            <option4>Júpiter</option4>
+            <option5>Terra</option5>
+            <answer>Júpiter</answer>
+            <hint>Diferencie planetas sólidos de planetas gasosos.</hint>
+            <hint>Pense na composição dos diferentes tipos de planetas.</hint>
+            <hint>Júpiter é um gigante gasoso com uma composição muito diferente dos planetas rochosos.</hint>
+        </question>
+        
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é o nome da lua maior de Saturno?</questionText>
+            <option1>Europa</option1>
+            <option2>Titan</option2>
+            <option3>Calisto</option3>
+            <option4>Ganimedes</option4>
+            <option5>Ío</option5>
+            <answer>Titan</answer>
+            <hint>É a segunda maior lua do Sistema Solar.</hint>
+            <hint>Possui uma atmosfera densa e rica em nitrogênio.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>O que compõe principalmente a cauda de um cometa?</questionText>
+            <option1>Água líquida</option1>
+            <option2>Gelo e poeira</option2>
+            <option3>Rochas</option3>
+            <option4>Metal derretido</option4>
+            <option5>Gases atmosféricos</option5>
+            <answer>Gelo e poeira</answer>
+            <hint>Pense no que acontece quando o gelo é aquecido.</hint>
+            <hint>Lembre-se das características dos cometas quando se aproximam do Sol.</hint>
+            <hint>Visualize como seria a composição de um objeto vindo do espaço profundo.</hint>
+        </question>
+
+        <question>
+            <category>Astronomia</category>
+            <value>2</value>
+            <questionPath></questionPath>
+            <questionText>Qual é a idade aproximada do universo, segundo as teorias científicas atuais?</questionText>
+            <option1>2 bilhões de anos</option1>
+            <option2>5 bilhões de anos</option2>
+            <option3>10 bilhões de anos</option3>
+            <option4>13,8 bilhões de anos</option4>
+            <option5>20 bilhões de anos</option5>
+            <answer>13,8 bilhões de anos</answer>
+            <hint>Pense em uma idade que represente bilhões de anos.</hint>
+            <hint>Lembre-se das teorias científicas modernas sobre a origem do universo.</hint>
+            <hint>A idade é baseada em evidências científicas complexas.</hint>
+        </question>
+    </Questions>
+</Quiz>
